@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A meanes to reconcile the present distempers of these times, as things now are. Set out by a member of the present Parliament.</title>
+            <author>Anderson, Henry, b. 1581 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75326</idno>
+            <idno type="STC">Wing A3094</idno>
+            <idno type="STC">Thomason E458_18</idno>
+            <idno type="STC">ESTC R205069</idno>
+            <idno type="EEBO-CITATION">99864510</idno>
+            <idno type="PROQUEST">99864510</idno>
+            <idno type="VID">116740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116740)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A meanes to reconcile the present distempers of these times, as things now are. Set out by a member of the present Parliament.</title>
+                  <author>Anderson, Henry, b. 1581 or 2.</author>
+               </titleStmt>
+               <extent>[6], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Hen: Anderson.</note>
+                  <note>Annotation on Thomason copy: "Aug: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116740:1" rendition="simple:additions"/>
+            <p>A MEANES TO Reconcile the preſent diſtempers of theſe Times, as things now are.</p>
+            <p>
+               <hi>Set out</hi> By a Member of this preſent Parliament.</p>
+            <q>
+               <l>Tempora mutantur, &amp; nos mutamur in illis.</l>
+               <l>Scinditur incertum ſtudia in contraria vulgus.</l>
+               <l>Vivitur ex rapto, non hoſpes ab hoſpite tutus:</l>
+               <l>Nec ſocer à genero fratrum quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> gratia rara eſt.</l>
+               <l>Nulla fides pietas<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> viris qui Caſtra ſequuntur.</l>
+               <l>Venaléſque manus ibi fas, ubi maxima merces.</l>
+               <l>Nulla ſalus bello, pacem nunc poſcimus omnes.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 1648.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:116740:2"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here was lately ſet out in Print, a Paper, Entituled, <hi>The Wonder,</hi> Or, <hi>Propoſitions for a ſafe and well-grounded Peace.</hi> I muſt con<g ref="char:EOLhyphen"/>feſſe, that the Preface and the Propoſiti<g ref="char:EOLhyphen"/>ons came from me, though not the Title: The meanneſſe thereof I deſire may not be lookt upon, to the prejudice of the matter, but the Zeale of the Author to the quiet and peace of his Native Coun<g ref="char:EOLhyphen"/>trey: For, the Bloodſhed, Rapine, and Deſtru<g ref="char:EOLhyphen"/>ction, which now rageth amongſt us, muſt daily by the Continuance thereof, not onely make the Cure more deſperate, but likewiſe declare the wrath of God to be more heavy upon us. For if <hi>Tully</hi> a Heathen Orator pleading a Cauſe for his Clyent could ſay, <hi>Iugulare Civem ne Iure bonus quiſquam vult, mavult enim comme<g ref="char:EOLhyphen"/>morare ſecum poſsit perdere peperciſci, quam cum parcere potuiſſet perdidiſſe:</hi> Much more cauſe have we that are Chriſtians to avoid this needleſſe ſhedding of ſo much of our owne native blood, as is daily in every corner of the Kingdome ſhed amongſt us, to the unſpeakable grief of all good men: So that it may be ſaid as Saint <hi>Paul</hi> once ſaid to the Corinthians, <hi>I heare there are Conten<g ref="char:EOLhyphen"/>tions among you.</hi> Is there not a wiſe man among you, but that you muſt goe to ſtrife one with another? The ſpeedy ending of theſe Diſtractions (which I conceive may be eaſily and ſoone ended) if every man would lay
+<pb facs="tcp:116740:3"/>aſide his owne particular, and onely looke to the ſafe<g ref="char:EOLhyphen"/>guard of the ſhippe wherein we are all Imbarkt, and in the preſervation whereof all our lives and fortunes doe conſiſt. This by the perſwaſions of ſome freinds hath induced mee to publiſh ſuch Reaſons for the more cleare manifeſtation &amp; Inducement of the former Propoſitions, my ſelfe (knowing my owne Integrity) makes me no way aſhamed to own them. I am unwilling to impute blame to any partie, but rather that things paſt, may be paſt over, with the moſt candor and leaſt bitternes, though my own ſufferings have been as much and as cauſeles, as moſt mens have been. Only thus much I may juſtly ſay for my ſelf, as the Mag-pye did in the Poet, when ſhe was ſtript of all her feathers, being askt the queſtion how ſhe came to be ſo naked? made Anſwer, <hi>Quid fuerim, quid ſumque vide, meritumque requiri, Invenies nocuiſſe fidem:</hi> This is all my end, onely deſiring God to give ſuch ſucceſſe to this endevour by ſo weak a means as may tend moſt to his glorie, the good &amp; peace of this our native Coun<g ref="char:EOLhyphen"/>try, my ſelfe being alwayes ready to ſerve the Com<g ref="char:EOLhyphen"/>mon-wealth with the uttermoſt of my endeavours in the wayes of Peace and Truth.</p>
+            <closer>
+               <signed>Hen: Anderſon.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:116740:3"/>
+            <head>The PREFACE.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving ſince the firſt beginning of this Parli<g ref="char:EOLhyphen"/>ament obſerved the differences therein, both in their breeding &amp; continuance; the people holding themſelves grieved with illegall preſſures put upon them, both in the freedom of their Perſons, the propriety of their Goods, and the liberty of their Conſciences; and theſe wrought by particular men for ſiniſter ends by their intereſts in Court, to the diſturbance of the quiet and peace of the Kingdome, as it ſtood eſtabliſh'd by Law: Theſe occaſioned a deſire by moſt men, not only to prevent the like for the fu<g ref="char:EOLhyphen"/>ture, but alſo the puniſhing of ſuch as were conceived to be Authors, Procurers, or Supporters thereof, thereby to deterre others from doing the like hereafter: And this trench't upon both Courtiers, Lawyers, and Divines. The meanes to reconcile and prevent which, as the times now are, hath incited me, being a Member of this preſent Parliament; and conceiving my ſelf in duty bound to tender my beſt advice for the ſpeedy ending of this moſt barbarous and unnaturall War that is now raging amongſt us, which can produce no better effect, if not timely ended, then a generall deſtruction of the Nation, who are now become a Scorne and Contempt to all Neighbours, (who were before look't upon with great honour and reſpect, yea, not without envy.) Beſides, the high wrath of Almighty God, by the courſes held and obſer<g ref="char:EOLhyphen"/>ved in the proſecution thereof: I profeſſe by this advice, not to look upon my ſelf, but meerly the good of my native
+<pb facs="tcp:116740:4"/>Country; and that, which I conceive my ſelf bound to, both by the Oath of Allegeance, Supremacy, and the Proteſtati<g ref="char:EOLhyphen"/>on which I took this Parliament. And this without reſpect of any party, further then my judgement ſhall lead me to. And I ſhall likwiſe give this teſtimony of my owne ſincerity herein, that I being a Commoner of this Kingdome, and knowing no where elſe to live but in <hi>England,</hi> &amp; here, under a peaceable and free Government. In all juſt things, ſhall adhere to the Common-wealth, and the liberties of the Sub<g ref="char:EOLhyphen"/>ject; yet no way hereby to detract from the King, what may juſtly be due to the Regall Power, and which it can no way be abridged of, without too much diminution: I have alwayes conceived, &amp; ſtill do, that the Regall Power ought to be limi<g ref="char:EOLhyphen"/>ted by the Law: And if it be debarr'd of its due courſe in the execution thereof, God defend, but the people upon generall complaints ſhould have remedy therein, eſpecially to prevent the like in ſucceeding times, conſidering the Government we live in is a mixt Government, by conſent betweene the King and the People, as to my ſenſe doth manifeſtly appear by the words of the Oath of Coronation; which being obſer<g ref="char:EOLhyphen"/>ved, the people, as bound in Conſcience, ought to yeeld the King all due Honour and Obedience to His juſt Commands. Thus I have declared unto you, the openneſſe of my heart, herein, leaving the following adviſe to your beſt judge<g ref="char:EOLhyphen"/>ments, with my Prayers to God to give ſuch ſucceſſe therein, as I, in the Integrity of my heart doe deſire.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116740:4"/>
+            <head>A ready way (as is conceived) to com<g ref="char:EOLhyphen"/>poſe the preſent Differences, as the Times now are. VVith the Reaſons inducing thereunto.</head>
+            <head type="sub">By a Members of the Houſe of Commons this preſent Parliament.</head>
+            <p n="1">
+               <hi>1. <seg rend="decorInit">T</seg>Hat the King be immediately ſent for to come to</hi> Hampton-Court, <hi>without any Conditions or Guard whatſoever, but according to His Majeſties own pleaſure.</hi>
+            </p>
+            <p>That the King being under reſtraint, and not at his free libertie, can doe no Act which can bind him either by the Law of the Kingdome, or Civill Law; both which lawes doe make void all Acts whatſoever which ſhall be done either <hi>per minas</hi> or dures of Impriſonment, ſo that neceſſarily he muſt be at his free libertie without any reſtraint or tye but his owne free diſpoſition before he be in a Capacity to grant or confirme any thing, which cannot poſsibly be whilſt there is any reſtraint, upon his perſon, or Armes afoot to enforce a non-performance.</p>
+            <p>That no Treaty or Capitulation can be had betweene a King and his people, but the people muſt have their deſires from the King by way of Entreatie and requeſt:
+<pb n="2" facs="tcp:116740:5"/>Which in all juſt things the King ought to deny. And this appeares and is manifeſt by the preambles of the Acts of Parliament of this Kingdome, Which for the moſt part are declared to be granted at the humble Deſire and requeſt of the People.</p>
+            <p n="2">
+               <hi>2. That the King, before His comming to</hi> Hampton, <hi>doe Publiſh His Proclamation of free pardon to all His Subjects of what quality or condition ſoever, and for all faults whatſoever, againſt Himſelf, His Crown and Dignity.</hi>
+            </p>
+            <p>That the publiſhing of his Proclamation of free Pardon ſhews his Mercy to all his People, which is a particular, which the Kings have as Incident to the regall Authority, and ought by them to be afforded in Iuſtice to the people, but onlie where Neceſsitie or needfull Severitie inforces the con<g ref="char:EOLhyphen"/>trary for the Example of others in the future.</p>
+            <p>This will take away from the People all their juſt feare of being proſecuted according to the ſtrictnes of the Law for their Crimes which they have committed againſt the King, his Crowne and Dignity.</p>
+            <p>It is in his own free power to grant a pardon either generall or ſpeciall for all things concerning himſelfe, Which pardon ſhall cloſe the hands of all Iudges and Sub-miniſters in any Court of Iuſtice to proceed againſt any Delinquent ſo pardon<g ref="char:EOLhyphen"/>ed for any fore-paſt Crime.</p>
+            <p>The King can grant no more then what concernes himſelf, the people muſt neceſſarily concurre in the granting of any thing that may concerne themſelves. And this can no way be done but by an Act of Parliament in a free and legall Par<g ref="char:EOLhyphen"/>liament by conſent of the three Eſtates of the Kingdome law<g ref="char:EOLhyphen"/>fully Aſſembled, King, Lords, <hi>and</hi> Commons, <hi>wherein the</hi>
+               <pb n="6" facs="tcp:116740:5"/>King doth conſent for himſelf, the Lords for themſelves, &amp; the Commons by their Repreſentative body by them Autho<g ref="char:EOLhyphen"/>rized by a free and unawed or conſtrained Election of their Deputies; which they ſhall appoint to conſent for them: And ſuch Act ſhall conclude all men, becauſe all men do conſent therein by themſelves or their lawful Deputies.</p>
+            <p n="3">
+               <hi>3. That the King be forthwith reſtored to all His juſt Revenues and Regall Power, which by Law is due to Him.</hi>
+            </p>
+            <p>Without His revenue be reſtored unto Him, He cannot ſub<g ref="char:EOLhyphen"/>ſiſt, much leſſe maintain the Royall Dignity which His An<g ref="char:EOLhyphen"/>ceſtors hath flouriſhed in; to the great diſhonour of the Nati<g ref="char:EOLhyphen"/>on, to have a King not able to maintaine His State and Dig<g ref="char:EOLhyphen"/>nity without the oppreſsion of His People; and without which he cannot manage the affaires of the Kingdome incident to his Office: For it is an old Adage, <hi>Indigentem operare bonaeſt Impoſſibile;</hi> And for a King to live by perpetuall begging, is to make Him and His Government hatefull to His People.</p>
+            <p>If the King be abridg'd of the Power of the Sword, he ſhal have no meanes to compell or force Obedience to His juſt Commands, nor maintain His People from the oppreſsion of greater men: But every man will do what ſeems good to Himſelf againſt His Inferiour; for onely fear of puniſhment makes bad men fear to offend: And take away the Power of the Militia from the King, (which is inſeparable from the Crown) and neither ever hath, nor can be taken away from the Crown, then you take away the Kings Coercive Power to inforce Obedience to the due execution of His Lawes, or the meanes to ſuppreſſe any Rebellion, Riots, Routs, or other miſdemeanours whatſoever.</p>
+            <p n="4">
+               <pb n="7" facs="tcp:116740:6"/>
+               <hi>4. That His Majeſty take a Corporall Oath not to Governe any way but according to the known Lawes of the Kingdome. And whatſoever Sub-miniſter of His ſhall do otherwiſe, to the prejudice of the Subject, ei<g ref="char:EOLhyphen"/>ther in point of liberty of their perſons, or propriety of their goods, He will grant them no pardon, but leave them to the juſtice of the Law. And likewiſe to give His Royall Aſſent to an Act of Parliament for His Suc<g ref="char:EOLhyphen"/>ceſſours to take the like Oath, the beginning of every Parliament before both Houſes, for the ſame.</hi>
+            </p>
+            <p>That this Oath is no more but the ſame that Kings do take at their Coronation, and therefore no prejudice can inſue to the King by the often taking thereof.</p>
+            <p>That it is a ſecuring of the people for the true perfor<g ref="char:EOLhyphen"/>mance thereof, by often taking of it; and by ſo doing, it ſhall the better be kept in memory, both by the King and the States of the Kingdome.</p>
+            <p>It will keep in awe all Judges and other officers of the Kingdome, when they ſhall find themſelves incapable of having any pardon for ſuch offences, and the King made incapable from granting any ſuch Pardon, as a perſon who by the Law can do no wrong to his people; but it muſt be His Miniſters, who by this ſhall be in perpetuall fear of doing injuſtice to the Subject.</p>
+            <p>It ſhal take from the King and His Succeſſours all cauſes of diſcontent or grievance which may juſtly grow between the King and His People in the point of extending the Pre<g ref="char:EOLhyphen"/>rogative beyond its due bound.</p>
+            <p>It will be a meanes to procure a hearty and willing Obe<g ref="char:EOLhyphen"/>dience from the people to the Kings, their deſires when they govern no way but according to the Law.</p>
+            <p>This manner of way is preſidented in the Iteration of the
+<pb n="8" facs="tcp:116740:6"/>Oath by <hi>Magna Charta,</hi> which was confirmed thirty times at leaſt, by ſeveral Acts of Parliament: which one Act might have ſerv'd for a Law, if it had not been thought fit by our Anceſtors to be often regranted for the more firme obſer<g ref="char:EOLhyphen"/>vance thereof.</p>
+            <p>That the taking from the King His Power of pardoning in theſe Cauſes, is no more then the taking away His Power to pardon a wilfull murther, which He cannot pardon, as the Law now is.</p>
+            <p>That in caſe of blood, the next of kin may bring an Ap<g ref="char:EOLhyphen"/>peale for their Anceſtors death, which the Party cannot be letted of by any pardon whatſoever.</p>
+            <p n="5">
+               <hi>5. That a Proclamation be publiſhed for the Disban<g ref="char:EOLhyphen"/>ding of all Souldiers within the Kingdome, and bring<g ref="char:EOLhyphen"/>ing in of their Armes within ten dayes after ſuch Procla<g ref="char:EOLhyphen"/>mation upon paine of High Treaſon, againſt all Refuſers and their Abettors.</hi>
+            </p>
+            <p>There can be no cauſe to keep an Army afoot to the oppreſ<g ref="char:EOLhyphen"/>ſion of the People, when there is no enemy to oppoſe, as there cannot be, when the King is eſtabliſhed in His Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>That the Kingdome is ſo impoveriſhed and waſted by the late warres, that it is not able to bear the charge of an Army any longer.</p>
+            <p>That the Nobility and Gentry of the Kingdome are ſo ru<g ref="char:EOLhyphen"/>ined in their eſtates already, that there is no poſsibility that it can be recovered in a long time, neither will they be any way able either to contribute to the publick neceſsities, or well able to pay their debts.</p>
+            <p>This is moſt effectuall for the disbanding of all Armies without delay; and may by ſuch a Proclamation be more ſpee<g ref="char:EOLhyphen"/>dily and eaſily effected.</p>
+            <p n="6">
+               <pb n="9" facs="tcp:116740:7"/>
+               <hi>6. That the Church-Government may ſtand as it is Eſtabliſhed by Law, having reſpect to tender Conſcien<g ref="char:EOLhyphen"/>ces, until ſuch time as it ſhall be altered by due courſe of Law.</hi>
+            </p>
+            <p n="7">
+               <hi>7. That His Majeſty will be pleaſed to promiſe the ſpeedy convening of a National Synod of forty</hi> Divines <hi>of His Majeſties owne Subjects. And that the Refor<g ref="char:EOLhyphen"/>med Proteſtant Churches may be entreated to ſend ſome of their</hi> Divines, <hi>ſuch as themſelves ſhall make choice of to aſſiſt therein, for Eſtabliſhing and Rectify<g ref="char:EOLhyphen"/>ing ſuch an Unity and Conformity with all other Pro<g ref="char:EOLhyphen"/>teſtant Churches as ſhall be by conſent agreed upon, whereby to preſerve Unity with them, both in</hi> Doctrine <hi>and</hi> Diſcipline; <hi>which agreement His Majeſty will Conſent to have confirmed by Act of Parliament.</hi>
+            </p>
+            <p>That no unity can be preſerved either in Church or State, wherein there is no ſet forme of outward Government pre<g ref="char:EOLhyphen"/>ſcribed.</p>
+            <p>That the Government being eſtabliſhed by Law, ought, and muſt be obſerv'd till it be altered by Law: And that O<g ref="char:EOLhyphen"/>bedience is to be given to it, whilſt it is a Law; And that the Magiſtrate ought to enforce Obedience to it.</p>
+            <p>That it will avoid all diſturbance in the Common-wealth, concerning difference of Opinions in point of Religion; a thing moſt neceſſary to be prevented.</p>
+            <p>That if there be any thing in the Church Government now eſtabliſhed, either Superſtitious or Superfluous, which tender Conſciences may take offence at, and may well be for<g ref="char:EOLhyphen"/>borne; It will be neceſſary for the publique Peace and quiet of the Kingdome, to forbeare the ſtrict execution of the Law for the preſent in ſuch particulars.</p>
+            <p>
+               <pb n="10" facs="tcp:116740:7"/>That for the framing of Conformity with all other Pro<g ref="char:EOLhyphen"/>teſtant Reformed Churches, whereby the Papiſts and Secta<g ref="char:EOLhyphen"/>riſts may have no advantage to ſcandall our Religion, ei<g ref="char:EOLhyphen"/>ther in reſpect of diverſity of Opinions, or outward Ceremo<g ref="char:EOLhyphen"/>nie: A National Synod may be conveened in this King<g ref="char:EOLhyphen"/>dome, of Divines and learned men, whereby not onely the tenets of our Religion ſhould be expreſſed in <hi>terminis,</hi> but likewiſe the outward forme of Diſcipline to be uſed in the Church.</p>
+            <p>That it will be much for the Honour of the King and our Nation, that the Kings of England ſhould take upon them the Protection and Defence of all the Proteſtant Reformed Churches, and likewiſe to be the Head thereof.</p>
+            <p>As the Kings of <hi>Spaine</hi> make themſelves the Head of the Catholique League, and to this purpoſe that the Reformed Proteſtant Churches may be invited to ſend their Divines to this Synod, that Agreement may be had with them in eve<g ref="char:EOLhyphen"/>ry point concerning either Doctrine or manners in the out<g ref="char:EOLhyphen"/>ward Diſcipline: And ſuch Agreement to be eſtabliſhed here by Act of Parliament; which all men ſhall Conforme upon a penalty.</p>
+            <p>This may be a juſt Reaſon to prohibit all private Conven<g ref="char:EOLhyphen"/>ticles and meetings, wherein private Opinions are broached amongst the people, who thereby are drawn into Publique Factions, and do raiſe Sedition and Tumults for Religion, to the diſturbance of the Peace of the Kingdome.</p>
+            <p n="8">
+               <hi>8. That His Majeſty will be pleaſed to promiſe to give the Royall Aſſent to ſuch Bils to be made Lawes, as ſhall be preſented unto Him by both Houſes, in a full, free, and Legall Parliament, which ſhall no way intrench upon His Majeſties Legall Prerogative, Honour, or Pro<g ref="char:EOLhyphen"/>fit, but onely ſuch as tend to the better Government,
+<pb n="11" facs="tcp:116740:8"/>and eaſe of the Subjects, for the future.</hi>
+            </p>
+            <p>This is but juſt for the King, to grant what the people ſhall deſire, not trenching upon His own due Rights.</p>
+            <p>This granted, ſecures all men for whatſoever by-paſt, that a free Parliament ſhall think fit to do.</p>
+            <p>The King can do no more but for what concernes Him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p n="9">
+               <hi>9. That His Majeſty will be pleaſed to grant theſe for the preſent under His Hand. And which He will confirme at His firſt comming to Liberty to ſome Houſe of His own.</hi>
+            </p>
+            <p>More, the King cannot do, by reaſon of His Impriſon<g ref="char:EOLhyphen"/>ment, and may befit He ſhould promiſe to do, for the preſent quiet and Peace of the Kingdome, as now things are, at His firſt comming to Liberty.</p>
+            <p n="10">
+               <hi>10. And if theſe ſhall be refuſed to be done, either by King or Parliament, the blame may juſtly be imputed to lie there: And are very neceſſary to preced a</hi> Perſo<g ref="char:EOLhyphen"/>nall Treaty, <hi>wherein all Intereſts may be taken into con<g ref="char:EOLhyphen"/>ſideration.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>Si quid noviſti rectius iſtis, Candidus imperti;</l>
+                  <l>Si non, his utere mêcum.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>HEN: ANDERSON.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116740:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
